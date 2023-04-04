@@ -48,7 +48,7 @@ const Hero = () => {
         h-full
         ">
             <CircleButton btnlink = "https://fwhdaueuzh6.typeform.com/to/IA75g8Dc" btntxt = "Let's Talk!" />
-            <Link href={"https://www.linkedin.com/in/mahadbaig"}>Say hi on Linkedin</Link>
+            <Link href={"https://www.linkedin.com/in/mahadbaig"} target="_blank">Say hi on Linkedin</Link>
         </div>
     </div>
   )

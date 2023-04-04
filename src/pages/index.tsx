@@ -14,9 +14,11 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
+
       <main>
 
-        <Hero />
+        <Hero/>
+        
         <Project 
         title = "PanaverseDAO"
         btnlink = "https://panaversedao-v2.vercel.app/"
@@ -24,6 +26,7 @@ export default function Home() {
         desc = "Panaverse DAO is Pakistan's largest community & training center of next gen Web3 & Metaverse developers."
         img = {panaverseimg}
         />
+
         <Footer />
      
       </main>
