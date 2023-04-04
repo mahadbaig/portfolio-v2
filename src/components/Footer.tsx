@@ -121,7 +121,7 @@ const Footer = () => {
         flex
         items-center
         text-2xl
-        transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 duration-300
+        transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-transparent hover:text-black duration-300
         ">
             Let's Talk    
         </Link>

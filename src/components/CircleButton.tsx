@@ -21,7 +21,7 @@ const CircleButton = (props:any) => {
             md:h-24
             w-24
             h-24
-            transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-lime-100 hover:text-black duration-300
+            transition ease-in-out delay-150 bg-black hover:-translate-y-1 hover:scale-110 hover:bg-transparent hover:text-black duration-300
                 ">
                     {btntxt}
                 </Link>
