@@ -41,12 +41,14 @@ const Hero = () => {
         flex
         flex-col
         items-center
+        justify-between
         p-5
         lg:w-1/4
         md:w-1/4
         h-full
         ">
             <CircleButton btnlink = "https://fwhdaueuzh6.typeform.com/to/IA75g8Dc" btntxt = "Let's Talk!" />
+            <Link href={"https://www.linkedin.com/in/mahadbaig"}>Say hi on Linkedin</Link>
         </div>
     </div>
   )
